@@ -4,11 +4,14 @@
   "main": "Main.xaml",
   "dependencies": {
     "CopyFromUiPath.Word.Activities": "1.5.3",
-    "UiPath.Excel.Activities": "[2.11.4]",
+    "UiPath.DocumentUnderstanding.ML.Activities": "1.9.1",
+    "UiPath.Excel.Activities": "2.11.4",
+    "UiPath.IntelligentOCR.Activities": "5.1.0-preview",
     "UiPath.Mail.Activities": "[1.12.3]",
+    "UiPath.OmniPage.Activities": "1.8.0",
     "UiPath.System.Activities": "[21.10.3]",
-    "UiPath.UIAutomation.Activities": "[21.10.4]",
-    "UiPathTeam.Confluence.Activities": "1.0.0.70",
+    "UiPath.UIAutomation.Activities": "[21.12.0-preview]",
+    "UiPathTeam.Confluence.Activities": "1.0.0.72",
     "UiPathTeam.File.Activities": "1.0.4"
   },
   "webServices": [],
